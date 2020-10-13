@@ -1,6 +1,6 @@
 # designs
 
-A new Flutter project.
+A flutter design from udemy courses
 
 ## Getting Started
 
